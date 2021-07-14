@@ -1,2 +1,2 @@
 # game
-game repo
+game repo git command demondtration
