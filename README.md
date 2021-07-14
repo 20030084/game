@@ -1,2 +1,2 @@
 # game
-game repo git command demondtration
+game repo git command demonstration
